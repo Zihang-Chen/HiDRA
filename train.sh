@@ -1,7 +1,7 @@
 accelerate launch src/train_infdiff.py \
-    --sd_path="/root/autodl-tmp/stabilityai/sd-turbo" \
-    --output_dir="/root/autodl-tmp/inf-enh/ours_bi-30k_abla_adjust-deg_res-512-deg-gated-no-mia" \
-    --dataset_folder="/root/autodl-tmp/HM-TIR" \
+    --sd_path="./stabilityai/sd-turbo" \
+    --output_dir="./HiDRA" \
+    --dataset_folder="./datasets/HM-TIR" \
     --train_image_prep="randomcrop_512x512_hflip" \
     --resolution=512 \
     --train_batch_size=2 \
@@ -11,4 +11,4 @@ accelerate launch src/train_infdiff.py \
     --max_train_steps=30000 \
     --eval_freq=5000 \
     --viz_freq 50 \
-    --report_to "wandb" --tracker_project_name "inf-enh_test_HM-TIR-70-v2"
+    --report_to "wandb" --tracker_project_name "HiDRA"
