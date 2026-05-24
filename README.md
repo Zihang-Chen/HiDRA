@@ -15,6 +15,7 @@ If HiDRA is helpful for you, please help star this repo. Thanks!
 ### Updates
 
 [2026-5-24] The paper is [here](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_HiDRA_Hierarchical_Degradation_Representation_and_Adaptation_with_Generative_Priors_for_CVPR_2026_paper.pdf).
+
 [2026-3-20] Our paper has been accepted by CVPR 2026, the inference and code is available.
 
 ---
