@@ -36,6 +36,7 @@ Run the shell:
 ```
 sh train.sh
 ```
+Note that the full training process is GPU-memory intensive (~80GB). Please set an appropriate batch size and image resolution for the upper-level update stage based on your available GPU memory to ensure successful training.
 
 
 ### Inference and Testing
