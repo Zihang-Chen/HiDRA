@@ -4,8 +4,9 @@ Zihang Chen, Zhu Liu, Changbo Yan, Jinyuan Liu, Risheng Liu
 
 School of Software Technology, Dalian University of Technology
 
-If HiDRA is helpful for you, please help star this repo. Thanks!
 </div>
+
+If HiDRA is helpful for you, please help star this repo. Thanks!
 
 ### Framework Overview
 
