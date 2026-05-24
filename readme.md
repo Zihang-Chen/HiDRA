@@ -7,7 +7,7 @@ Zihang Chen, Zhu Liu, Changbo Yan, Jinyuan Liu, Risheng Liu
 ---
 ### Updates
 
-[2026-3-20] Our paper has been accepted by CVPR 2026, the inference and code is available..
+[2026-3-20] Our paper has been accepted by CVPR 2026, the inference and code is available.
 
 ---
 
