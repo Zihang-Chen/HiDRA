@@ -83,8 +83,9 @@ If this work has been helpful to you, please feel free to cite our paper!
 
 ### Any Question
 
-If you have any other questions about the code or paper, please email to [Zihang Chen](mailto:chenzi_hang@mail.dlut.edu.cn) or [Zhu Liu](mailto:liuzhu@mail.dlut.edu.cn).
+If you have any other questions about the code or paper, please email to [Zihang Chen](mailto:chenzi_hang@zju.edu.cn) or [Zhu Liu](mailto:liuzhu@mail.dlut.edu.cn).
 
+Due to job changes, the previous email address `chenzi_hang@mail.dlut.edu.cn` is no longer available.
 
 ## Acknowledgement
 Our core codes are based on [S3Diff](https://github.com/ArcticHare105/S3Diff), thanks for their contributions.
